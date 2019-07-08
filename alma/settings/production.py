@@ -25,7 +25,7 @@ SECRET_KEY = 'fh%ph!883s-^crxd_m#5m+$unko3*j1-emf@8=^!fb&9$%a!#!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['alma.com', 'www.alma.com']
+ALLOWED_HOSTS = ['alma.com', 'www.alma.com', 'one-alma.herokuapp.com']
 
 
 # Application definition
